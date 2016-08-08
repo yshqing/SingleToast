@@ -1,1 +1,1 @@
-include ':singletoast'
+include ':singletoast', ':example'
